@@ -7,3 +7,17 @@
 # Ignore Build results (Binaries)
 bin/
 obj/
+
+# Ignore LiveTest-1 project
+LiveTest-1/
+LiveTest-2/
+LiveTest-3/
+
+# Ignore Zip files
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Ignore 
